@@ -1,7 +1,6 @@
 export const INITIAL_STATE = {
     error:false,
-    posts:[
-    ]
+    posts:[]
 }
 
 
