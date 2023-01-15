@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.error{
+  color:red;
+}
+
+.shadow{
+  box-shadow: 2px 2px 2px 2px rgb(212, 206, 206);
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+
+}
